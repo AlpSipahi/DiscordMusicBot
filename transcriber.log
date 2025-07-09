@@ -1,0 +1,7 @@
+2025-06-15 03:55:50,692 - ERROR - Transcript generation failed: generate_html_transcript() got an unexpected keyword argument 'output_dir'
+2025-06-15 04:43:02,007 - ERROR - Transcript generation failed: generate_html_transcript() got an unexpected keyword argument 'output_dir'
+2025-06-15 04:46:10,877 - ERROR - Transcript generation failed: generate_html_transcript() got an unexpected keyword argument 'output_dir'
+2025-06-15 04:49:06,650 - ERROR - Transcript generation failed: 'async_generator' object has no attribute 'flatten'
+2025-06-15 04:50:36,188 - INFO - Transcript saved: channel=1296955410825089085, limit=100
+2025-06-15 04:51:38,625 - INFO - Transcript saved: channel=1296955410825089085, limit=100
+2025-06-15 04:57:27,326 - INFO - Transcript saved: channel=1296955410825089085, limit=100
